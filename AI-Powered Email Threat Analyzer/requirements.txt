@@ -1,0 +1,6 @@
+groq
+authres
+gradio
+boto3
+langsmith
+python-dotenv
