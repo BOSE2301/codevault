@@ -27,6 +27,25 @@ ML Integration: Implemented a Logistic Regression pipeline to predict attrition 
 
 Tech: Scikit-Learn Looker Studio Logistic Regression One-Hot Encoding
 
+## Diabetes Prediction
+Description: A machine learning application that predicts diabetes diagnostic outcomes using the PIMA dataset.
+
+Tech Stack: Python, Pandas, NumPy, and Scikit-learn (SVM Classifier & StandardScaler).
+
+Performance: Achieves approximately 77% accuracy on unseen test data using a linear kernel SVM.
+
+## Car Price Prediction Project
+
+Project Summary
+This project provides a data-driven system to predict used car prices by cleaning and analyzing historical vehicle listings. It simplifies the valuation process for buyers and sellers by leveraging machine learning to provide accurate market estimates. The system identifies key price drivers like car age, mileage, and fuel type to ensure transparent transactions.
+
+Tech Stack
+- **Language:** Python
+- **Data Manipulation:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn
+- **Machine Learning:** Scikit-Learn (Linear Regression, OneHotEncoder, Pipelines)
+- **Model Persistence:** Pickle
+
 ## Cloud Based File Integrity Verification System
 Detects unauthorized file modifications using cryptographic hash verification to ensure data integrity.
 
