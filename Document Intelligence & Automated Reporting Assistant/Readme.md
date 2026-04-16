@@ -1,4 +1,4 @@
-# Nexus RAG - Multimodal - Multilingual
+# Document Intelligence & Automated Reporting Assistant [Nexus RAG - Multimodal - Multilingual]
 
 This Google Colab notebook implements an advanced Retrieval-Augmented Generation (RAG) system featuring a multi-agent architecture with multilingual and multimodal capabilities. The system can process text documents and image captions, understand queries in various languages, and provide comprehensive answers.
 
