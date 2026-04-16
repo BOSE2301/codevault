@@ -19,7 +19,7 @@ The goal is to simulate how a Reporting Analyst supports **real-time business de
 ---
 This project combines **Python (Pandas/Scikit-Learn)** for predictive modeling and **Looker Studio** for executive-level business intelligence.
 
-## 📈 Interactive Dashboards
+##  Interactive Dashboards
 I developed a dual-page reporting system to help stakeholders identify risk factors and trends.
 
 ### 1. Executive Summary

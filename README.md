@@ -1,5 +1,5 @@
-👋 Hi, I’m Sandip Bhattacharya
-🚀 Civil Engineering To Machine Learning | AI Systems | Agentic RAG | MLOps
+Hi, I’m Sandip Bhattacharya
+Civil Engineering To Machine Learning | AI Systems | Agentic RAG | MLOps
 I build practical, end-to-end AI systems that combine machine learning, LLMs, automation, and cloud-native workflows.
 My work focuses on taking ideas from data to deployment, with an emphasis on scalability and real-world impact.
 
@@ -25,7 +25,7 @@ The Solution: A dual-page reporting system featuring an Executive Summary for hi
 
 ML Integration: Implemented a Logistic Regression pipeline to predict attrition risk with ~85% accuracy.
 
-Tech: Scikit-Learn Looker Studio Logistic Regression One-Hot Encoding🚀 View Project & ML Pipeline
+Tech: Scikit-Learn Looker Studio Logistic Regression One-Hot Encoding
 
 ## Cloud Based File Integrity Verification System
 Detects unauthorized file modifications using cryptographic hash verification to ensure data integrity.
