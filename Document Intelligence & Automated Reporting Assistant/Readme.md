@@ -52,9 +52,15 @@ To run this notebook, follow these steps:
 4.  **Process Files and Create Vectorstore**: Run the cells that process uploaded files, generate image captions using the BLIP model, and build the ChromaDB vector store for efficient retrieval.
 5.  **Initialize Agents**: The subsequent cells define and initialize the various agents and the orchestration logic.
 
+![Workflow](WORKFLOW.png)
+
 ## Usage
 
 Once setup is complete, you can interact with the system via the Gradio interface:
 
 1.  **Launch Gradio UI**: Run the final code cell to launch the interactive user interface.
 2.  **Enter Query**: Type your question in the 
+
+![RESULT](RESULT.png)
+
+![TECHNICAL_EXCELLENCE](Technical.png)
