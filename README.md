@@ -1,7 +1,13 @@
 Hi, I’m Sandip Bhattacharya
-Civil Engineering To Machine Learning | AI Systems | Agentic RAG | MLOps
-I build practical, end-to-end AI systems that combine machine learning, LLMs, automation, and cloud-native workflows.
-My work focuses on taking ideas from data to deployment, with an emphasis on scalability and real-world impact.
+
+Data & Reporting Analyst | Python · SQL · Looker Studio | MTech | Turning operational data into business decisions
+
+
+Data Analyst with 6+ years operational experience and MTech 
+in Big Data & Blockchain. I build MIS dashboards, 
+reporting systems, and data pipelines that help businesses make 
+faster decisions. Currently seeking Data Analyst / MIS Analyst / 
+Reporting Analyst roles.
 
 ## Projects
 
@@ -36,8 +42,7 @@ Performance: Achieves approximately 77% accuracy on unseen test data using a lin
 
 ## Car Price Prediction Project
 
-Project Summary
-This project provides a data-driven system to predict used car prices by cleaning and analyzing historical vehicle listings. It simplifies the valuation process for buyers and sellers by leveraging machine learning to provide accurate market estimates. The system identifies key price drivers like car age, mileage, and fuel type to ensure transparent transactions.
+Analyzed 5,000+ used car listings to identify key price drivers including age, mileage and fuel type. Built regression model achieving R² of 0.899 — findings structured as a business report for buyer/seller decision support.
 
 Tech Stack
 - **Language:** Python
@@ -57,7 +62,7 @@ Detects unusual patterns in structured datasets using statistical and machine le
 Tech: Python · NumPy · Pandas · Scikit-learn
 
 ## AI Email Threat Analyzer (Dockerized)
-An end-to-end AI-powered email security system for detecting phishing, spam, and suspicious content.
+Built an AI-powered document classification and threat detection system — demonstrating applied NLP, LLM integration, and cloud pipeline skills for future AI Analyst and AI-augmented reporting roles.
 
 Highlights
 
