@@ -7,16 +7,25 @@ My work focuses on taking ideas from data to deployment, with an emphasis on sca
 
 ## Construction Project MIS — West Bengal Operations 
 Bridge between Domain Expertise & Data Intelligence
- The Problem: Analyzed 100+ construction projects (2019–2024) to solve the $4,900M+$ challenge of cost overruns and schedule delays.
- The Solution: Built a comprehensive MIS reporting system and Looker Studio Dashboard identifying high-risk locations (Haldia) and project types (Bridges).
- Impact: Reduced management reporting time through ad-hoc query optimization and automated risk flagging.
- Tech: Python Pandas Looker Studio Geographic Analysis
+
+The Problem: Analyzed 100+ construction projects (2019–2024) to solve the $4,900M+$ challenge of cost overruns and schedule delays.
+
+The Solution: Built a comprehensive MIS reporting system and Looker Studio Dashboard identifying high-risk locations (Haldia) and project types (Bridges).
+
+Impact: Reduced management reporting time through ad-hoc query optimization and automated risk flagging.
+
+Tech: Python Pandas Looker Studio Geographic Analysis
+
 ## HR Employee Attrition — Predictive Reporting
 MIS Reporting Mindset + Machine Learning
- The Problem: Identifying hidden drivers of employee turnover in large organizations.
- The Solution: A dual-page reporting system featuring an Executive Summary for high-level KPIs (16.12% Attrition) and an Ad-Hoc Analysis page for deep-dive risk assessment.
- ML Integration: Implemented a Logistic Regression pipeline to predict attrition risk with ~85% accuracy.
- Tech: Scikit-Learn Looker Studio Logistic Regression One-Hot Encoding🚀 View Project & ML Pipeline
+
+The Problem: Identifying hidden drivers of employee turnover in large organizations.
+
+The Solution: A dual-page reporting system featuring an Executive Summary for high-level KPIs (16.12% Attrition) and an Ad-Hoc Analysis page for deep-dive risk assessment.
+
+ML Integration: Implemented a Logistic Regression pipeline to predict attrition risk with ~85% accuracy.
+
+Tech: Scikit-Learn Looker Studio Logistic Regression One-Hot Encoding🚀 View Project & ML Pipeline
 
 ## Cloud Based File Integrity Verification System
 Detects unauthorized file modifications using cryptographic hash verification to ensure data integrity.
