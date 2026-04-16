@@ -92,7 +92,8 @@ An interactive MIS dashboard was built in **Looker Studio** connected to this da
 - Project status overview (bar chart)
 - High risk projects table (sortable)
 - Interactive filters: Date Range, Project Type, Location
-! [MIS_DASHBOARD] (images/Dashboard.png)
+
+![MIS_DASHBOARD] (images/Dashboard.png)
 ---
 
 ## How To Run
