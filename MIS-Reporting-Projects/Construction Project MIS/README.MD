@@ -1,4 +1,4 @@
-# Construction Project MIS Analysis — West Bengal Operations
+# Construction Project MIS Analysis — Operations
 
 **Author:** Sandip Bhattacharya  
 **Tools:** Python · Pandas · NumPy · Matplotlib · Looker Studio  

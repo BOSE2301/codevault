@@ -11,7 +11,7 @@ Reporting Analyst roles.
 
 ## Projects
 
-## Construction Project MIS — West Bengal Operations 
+## Construction Project MIS — Operations 
 Bridge between Domain Expertise & Data Intelligence
 
 The Problem: Analyzed 100+ construction projects (2019–2024) to solve the $4,900M+$ challenge of cost overruns and schedule delays.
