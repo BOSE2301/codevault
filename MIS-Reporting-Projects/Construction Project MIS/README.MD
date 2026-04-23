@@ -95,6 +95,8 @@ An interactive MIS dashboard was built in **Looker Studio** connected to this da
 
 ![MIS_DASHBOARD](images/Dashboard.png)
 
+**Live Dashboard:** [View on Looker Studio](https://datastudio.google.com/reporting/d5c3e1ba-ec86-4126-b289-1d821500082c)
+
 ---
 
 ## How To Run
