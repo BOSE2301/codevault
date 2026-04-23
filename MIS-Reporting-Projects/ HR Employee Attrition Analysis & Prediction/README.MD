@@ -30,6 +30,8 @@ Focuses on high-level KPIs like total attrition rate (16.12%), salary impacts, a
 Provides deep-dives into specific segments such as Overtime vs. Department and Age Group risks.
 ![Ad Hoc Analysis](images/ad_hoc_analysis.png)
 
+**Live Dashboard:** [View on Looker Studio](https://datastudio.google.com/reporting/ff8dc101-d27e-46e8-92f9-97a5877219cb)
+
 ---
 
 ## Objectives
