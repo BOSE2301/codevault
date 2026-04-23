@@ -75,7 +75,7 @@ Provides deep-dives into specific segments such as Overtime vs. Department and A
 * Employees in **0–2 years tenure** are most at risk
 * Certain **job roles and departments** have higher exit rates
 
-! [Chart](images/hr_attrition_charts.png)
+![Chart](images/hr_attrition_charts.png)
 
 ---
 
